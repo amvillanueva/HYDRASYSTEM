@@ -5,6 +5,7 @@ Imports HYDRAOperaciones.ControlRada
 Public Class FrmMantenimiento
 
     Public idpredio As String
+    Public idpruebaborrar As String
     Public com As String
     Public camp As String
     Public dni As String
