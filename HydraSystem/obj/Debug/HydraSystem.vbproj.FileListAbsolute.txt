@@ -1,0 +1,427 @@
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+E:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+D:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\stdole.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\stdole.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\stdole.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\FlashControlV71.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\FlashControlV71.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\FlashControlV71.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\stdole.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+F:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe.config
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.exe
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.exe
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HydraSystem.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\FlashControlV71.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\stdole.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAEntidades.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\IURada.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+I:\PROYECTO TESIS\HydraSystem\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.exe
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\IURada.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\FlashControlV71.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\stdole.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\IURada.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\IURada.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+D:\ult\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe.config
+D:\ult\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.exe
+D:\ult\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.xml
+D:\ult\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe.config
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.exe
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\IURada.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\FlashControlV71.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\stdole.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\IURada.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\IURada.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+C:\Users\Sny\Desktop\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.MDIPrincipal.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\IURada.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\FlashControlV71.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\stdole.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\IURada.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\IURada.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.exe
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.pdb

@@ -1,0 +1,212 @@
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+D:\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+F:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+I:\PROYECTO TESIS\HydraSystem\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
