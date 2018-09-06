@@ -175,3 +175,18 @@ E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\PoolConexionesHydra.xml
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.dll
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\HYDRAEntidades.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\PoolConexionesHydra.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\HYDRAEntidades.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\HYDRAEntidades.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\PoolConexionesHydra.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\bin\Debug\PoolConexionesHydra.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRADatosSQL.vbprojResolveAssemblyReference.cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.Resources.resources
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRADatosSQL.vbproj.GenerateResource.Cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.pdb

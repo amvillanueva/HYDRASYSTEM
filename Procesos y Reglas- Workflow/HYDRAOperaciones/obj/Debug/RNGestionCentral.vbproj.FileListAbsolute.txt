@@ -210,3 +210,21 @@ E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAOperaciones.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRAEntidades.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\bin\Debug\PoolConexionesHydra.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbprojResolveAssemblyReference.cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.Resources.resources
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\RNGestionCentral.vbproj.GenerateResource.Cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Procesos y Reglas- Workflow\HYDRAOperaciones\obj\Debug\HYDRAOperaciones.pdb
