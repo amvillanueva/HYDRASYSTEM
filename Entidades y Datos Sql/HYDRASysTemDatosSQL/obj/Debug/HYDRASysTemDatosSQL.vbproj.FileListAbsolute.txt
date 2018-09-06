@@ -1,0 +1,8 @@
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\bin\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\bin\Debug\HYDRASysTemDatosSQL.pdb
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\bin\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.Resources.resources
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.vbproj.GenerateResource.Cache
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.dll
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.xml
+E:\PROYECTO TESIS\Entidades y Datos Sql\HYDRASysTemDatosSQL\HYDRASysTemDatosSQL\obj\Debug\HYDRASysTemDatosSQL.pdb

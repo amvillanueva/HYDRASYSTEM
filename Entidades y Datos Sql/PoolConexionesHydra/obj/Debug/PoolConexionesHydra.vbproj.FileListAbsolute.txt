@@ -1,0 +1,131 @@
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+E:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+D:\PROYECTO TESIS\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+C:\Users\Anthony\Desktop\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\ULTIMO HYDRA\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+F:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+I:\PROYECTO TESIS\HydraSystem\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+E:\JORDAN\UNT\10º ciclo\TG\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+C:\Users\Sny\Desktop\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.Resources.resources
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbproj.GenerateResource.Cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.vbprojResolveAssemblyReference.cache
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\PoolConexionesHydra.xml
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\bin\Debug\HYDRAEntidades.pdb
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.dll
+E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\PoolConexionesHydra\obj\Debug\PoolConexionesHydra.pdb
