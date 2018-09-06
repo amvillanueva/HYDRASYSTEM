@@ -131,3 +131,12 @@ E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.xml
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.pdb
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.vbprojResolveAssemblyReference.cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\bin\Debug\HYDRAEntidades.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\bin\Debug\HYDRAEntidades.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\bin\Debug\HYDRAEntidades.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.vbprojResolveAssemblyReference.cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.Resources.resources
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.vbproj.GenerateResource.Cache
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.dll
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\Entidades y Datos Sql\HYDRAEntidades\obj\Debug\HYDRAEntidades.pdb
