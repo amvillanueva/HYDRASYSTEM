@@ -425,3 +425,7 @@ E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.exe
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.xml
 E:\Trabajos\PROYECTOS PROGRAMACION- ULIMOS\HYDRA\PROYECTO TESIS\HydraSystem- ult\HydraSystem\obj\Debug\HydraSystem.pdb
+E:\PROYECTOSGIT\HYDRASYSTEM\HydraSystem\bin\Debug\HydraSystem.exe.config
+E:\PROYECTOSGIT\HYDRASYSTEM\HydraSystem\obj\Debug\HydraSystem.exe
+E:\PROYECTOSGIT\HYDRASYSTEM\HydraSystem\obj\Debug\HydraSystem.xml
+E:\PROYECTOSGIT\HYDRASYSTEM\HydraSystem\obj\Debug\HydraSystem.pdb

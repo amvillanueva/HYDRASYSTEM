@@ -22,8 +22,8 @@ Partial Class FrmNuevoPredio
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmNuevoPredio))
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.cboCampana = New System.Windows.Forms.ComboBox()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
@@ -31,34 +31,12 @@ Partial Class FrmNuevoPredio
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
         Me.txtidPredio = New System.Windows.Forms.TextBox()
         Me.SplitContainer1 = New System.Windows.Forms.SplitContainer()
-        Me.txtObservaciones = New System.Windows.Forms.TextBox()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.GBXUSUARIO = New System.Windows.Forms.GroupBox()
-        Me.dgvPersona = New System.Windows.Forms.DataGridView()
-        Me.Label34 = New System.Windows.Forms.Label()
-        Me.cboTipoDocuser = New System.Windows.Forms.ComboBox()
-        Me.txtDNI = New System.Windows.Forms.TextBox()
-        Me.Label35 = New System.Windows.Forms.Label()
-        Me.txtContribuyente = New System.Windows.Forms.TextBox()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.GBXDATOSOR = New System.Windows.Forms.GroupBox()
-        Me.Label23 = New System.Windows.Forms.Label()
-        Me.Label22 = New System.Windows.Forms.Label()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.GBXINDICA = New System.Windows.Forms.GroupBox()
-        Me.cboEsActivo = New System.Windows.Forms.ComboBox()
-        Me.cboEsSancionado = New System.Windows.Forms.ComboBox()
-        Me.Label25 = New System.Windows.Forms.Label()
-        Me.Label24 = New System.Windows.Forms.Label()
-        Me.Label26 = New System.Windows.Forms.Label()
-        Me.cboEsnuevo = New System.Windows.Forms.ComboBox()
-        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
-        Me.TextBox13 = New System.Windows.Forms.TextBox()
-        Me.cboCampañaActualziar = New System.Windows.Forms.ComboBox()
-        Me.dtpFechaRes = New System.Windows.Forms.DateTimePicker()
-        Me.Label20 = New System.Windows.Forms.Label()
-        Me.txtResolucion = New System.Windows.Forms.TextBox()
-        Me.Label30 = New System.Windows.Forms.Label()
+        Me.bgtnGuardar = New System.Windows.Forms.Button()
+        Me.btnPrevie = New System.Windows.Forms.Button()
+        Me.SplitContainer2 = New System.Windows.Forms.SplitContainer()
+        Me.SplitContainer3 = New System.Windows.Forms.SplitContainer()
+        Me.dgvDatosPredio = New System.Windows.Forms.DataGridView()
+        Me.Label37 = New System.Windows.Forms.Label()
         Me.GBXPREDIOANT = New System.Windows.Forms.GroupBox()
         Me.GBXIDPREDIO = New System.Windows.Forms.GroupBox()
         Me.Label29 = New System.Windows.Forms.Label()
@@ -100,13 +78,31 @@ Partial Class FrmNuevoPredio
         Me.Label18 = New System.Windows.Forms.Label()
         Me.cbBLoque = New System.Windows.Forms.ComboBox()
         Me.Label19 = New System.Windows.Forms.Label()
-        Me.lblTitulo = New System.Windows.Forms.Label()
-        Me.dgvDatosPredio = New System.Windows.Forms.DataGridView()
-        Me.btnPrevie = New System.Windows.Forms.Button()
-        Me.bgtnGuardar = New System.Windows.Forms.Button()
-        Me.SplitContainer2 = New System.Windows.Forms.SplitContainer()
-        Me.SplitContainer3 = New System.Windows.Forms.SplitContainer()
-        Me.Label37 = New System.Windows.Forms.Label()
+        Me.GBXDATOSOR = New System.Windows.Forms.GroupBox()
+        Me.Label23 = New System.Windows.Forms.Label()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
+        Me.TextBox13 = New System.Windows.Forms.TextBox()
+        Me.cboCampañaActualziar = New System.Windows.Forms.ComboBox()
+        Me.dtpFechaRes = New System.Windows.Forms.DateTimePicker()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.txtResolucion = New System.Windows.Forms.TextBox()
+        Me.Label30 = New System.Windows.Forms.Label()
+        Me.GBXUSUARIO = New System.Windows.Forms.GroupBox()
+        Me.Label34 = New System.Windows.Forms.Label()
+        Me.cboTipoDocuser = New System.Windows.Forms.ComboBox()
+        Me.txtDNI = New System.Windows.Forms.TextBox()
+        Me.Label35 = New System.Windows.Forms.Label()
+        Me.txtContribuyente = New System.Windows.Forms.TextBox()
+        Me.Label36 = New System.Windows.Forms.Label()
+        Me.GBXINDICA = New System.Windows.Forms.GroupBox()
+        Me.cboEsActivo = New System.Windows.Forms.ComboBox()
+        Me.cboEsSancionado = New System.Windows.Forms.ComboBox()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.Label24 = New System.Windows.Forms.Label()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.cboEsnuevo = New System.Windows.Forms.ComboBox()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.gbxpredionuev = New System.Windows.Forms.GroupBox()
         Me.gbxpred = New System.Windows.Forms.GroupBox()
@@ -167,6 +163,10 @@ Partial Class FrmNuevoPredio
         Me.Label59 = New System.Windows.Forms.Label()
         Me.Label60 = New System.Windows.Forms.Label()
         Me.ComboBox12 = New System.Windows.Forms.ComboBox()
+        Me.txtObservaciones = New System.Windows.Forms.TextBox()
+        Me.Label33 = New System.Windows.Forms.Label()
+        Me.dgvPersona = New System.Windows.Forms.DataGridView()
+        Me.lblTitulo = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
@@ -174,15 +174,6 @@ Partial Class FrmNuevoPredio
         Me.SplitContainer1.Panel1.SuspendLayout()
         Me.SplitContainer1.Panel2.SuspendLayout()
         Me.SplitContainer1.SuspendLayout()
-        Me.GBXUSUARIO.SuspendLayout()
-        CType(Me.dgvPersona, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GBXDATOSOR.SuspendLayout()
-        Me.GBXINDICA.SuspendLayout()
-        Me.GBXPREDIOANT.SuspendLayout()
-        Me.GBXIDPREDIO.SuspendLayout()
-        Me.GBXAREA.SuspendLayout()
-        Me.GBXUBICGEO.SuspendLayout()
-        CType(Me.dgvDatosPredio, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.SplitContainer2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SplitContainer2.Panel1.SuspendLayout()
         Me.SplitContainer2.Panel2.SuspendLayout()
@@ -191,12 +182,21 @@ Partial Class FrmNuevoPredio
         Me.SplitContainer3.Panel1.SuspendLayout()
         Me.SplitContainer3.Panel2.SuspendLayout()
         Me.SplitContainer3.SuspendLayout()
+        CType(Me.dgvDatosPredio, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GBXPREDIOANT.SuspendLayout()
+        Me.GBXIDPREDIO.SuspendLayout()
+        Me.GBXAREA.SuspendLayout()
+        Me.GBXUBICGEO.SuspendLayout()
+        Me.GBXDATOSOR.SuspendLayout()
+        Me.GBXUSUARIO.SuspendLayout()
+        Me.GBXINDICA.SuspendLayout()
         Me.gbxpredionuev.SuspendLayout()
         Me.gbxpred.SuspendLayout()
         Me.gbxarsup.SuspendLayout()
         Me.gbxnewubicge.SuspendLayout()
         Me.gbxorigendesp.SuspendLayout()
         Me.gbxindicadelpred.SuspendLayout()
+        CType(Me.dgvPersona, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'GroupBox1
@@ -283,332 +283,128 @@ Partial Class FrmNuevoPredio
         Me.SplitContainer1.SplitterDistance = 84
         Me.SplitContainer1.TabIndex = 205
         '
-        'txtObservaciones
+        'bgtnGuardar
         '
-        Me.txtObservaciones.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtObservaciones.Location = New System.Drawing.Point(14, 617)
-        Me.txtObservaciones.Multiline = True
-        Me.txtObservaciones.Name = "txtObservaciones"
-        Me.txtObservaciones.ReadOnly = True
-        Me.txtObservaciones.Size = New System.Drawing.Size(784, 35)
-        Me.txtObservaciones.TabIndex = 211
+        Me.bgtnGuardar.Anchor = System.Windows.Forms.AnchorStyles.Right
+        Me.bgtnGuardar.BackColor = System.Drawing.Color.FromArgb(CType(CType(49, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(82, Byte), Integer))
+        Me.bgtnGuardar.FlatAppearance.BorderSize = 0
+        Me.bgtnGuardar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(200, Byte), Integer))
+        Me.bgtnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.bgtnGuardar.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bgtnGuardar.ForeColor = System.Drawing.Color.White
+        Me.bgtnGuardar.Image = CType(resources.GetObject("bgtnGuardar.Image"), System.Drawing.Image)
+        Me.bgtnGuardar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.bgtnGuardar.Location = New System.Drawing.Point(807, 34)
+        Me.bgtnGuardar.Name = "bgtnGuardar"
+        Me.bgtnGuardar.Size = New System.Drawing.Size(210, 38)
+        Me.bgtnGuardar.TabIndex = 207
+        Me.bgtnGuardar.Text = "GENERAR NUEVO PREDIO"
+        Me.bgtnGuardar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.bgtnGuardar.UseVisualStyleBackColor = False
         '
-        'Label33
+        'btnPrevie
         '
-        Me.Label33.AutoSize = True
-        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label33.ForeColor = System.Drawing.Color.Black
-        Me.Label33.Location = New System.Drawing.Point(13, 601)
-        Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(81, 13)
-        Me.Label33.TabIndex = 210
-        Me.Label33.Text = "Observaciones:"
+        Me.btnPrevie.Anchor = System.Windows.Forms.AnchorStyles.Right
+        Me.btnPrevie.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.btnPrevie.FlatAppearance.BorderSize = 0
+        Me.btnPrevie.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(200, Byte), Integer))
+        Me.btnPrevie.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnPrevie.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnPrevie.ForeColor = System.Drawing.Color.White
+        Me.btnPrevie.Image = CType(resources.GetObject("btnPrevie.Image"), System.Drawing.Image)
+        Me.btnPrevie.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnPrevie.Location = New System.Drawing.Point(694, 33)
+        Me.btnPrevie.Name = "btnPrevie"
+        Me.btnPrevie.Size = New System.Drawing.Size(104, 38)
+        Me.btnPrevie.TabIndex = 206
+        Me.btnPrevie.Text = "BUSCAR"
+        Me.btnPrevie.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btnPrevie.UseVisualStyleBackColor = False
         '
-        'GBXUSUARIO
+        'SplitContainer2
         '
-        Me.GBXUSUARIO.BackColor = System.Drawing.Color.AliceBlue
-        Me.GBXUSUARIO.Controls.Add(Me.Label34)
-        Me.GBXUSUARIO.Controls.Add(Me.cboTipoDocuser)
-        Me.GBXUSUARIO.Controls.Add(Me.txtDNI)
-        Me.GBXUSUARIO.Controls.Add(Me.Label35)
-        Me.GBXUSUARIO.Controls.Add(Me.txtContribuyente)
-        Me.GBXUSUARIO.Controls.Add(Me.Label36)
-        Me.GBXUSUARIO.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GBXUSUARIO.ForeColor = System.Drawing.Color.Black
-        Me.GBXUSUARIO.Location = New System.Drawing.Point(5, 282)
-        Me.GBXUSUARIO.Name = "GBXUSUARIO"
-        Me.GBXUSUARIO.Size = New System.Drawing.Size(699, 67)
-        Me.GBXUSUARIO.TabIndex = 209
-        Me.GBXUSUARIO.TabStop = False
-        Me.GBXUSUARIO.Text = "INFORMACION DE USUARIO"
+        Me.SplitContainer2.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.SplitContainer2.Location = New System.Drawing.Point(0, 0)
+        Me.SplitContainer2.Name = "SplitContainer2"
+        Me.SplitContainer2.Orientation = System.Windows.Forms.Orientation.Horizontal
         '
-        'dgvPersona
+        'SplitContainer2.Panel1
         '
-        Me.dgvPersona.AllowUserToAddRows = False
-        Me.dgvPersona.AllowUserToDeleteRows = False
-        Me.dgvPersona.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
-        Me.dgvPersona.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells
-        Me.dgvPersona.BackgroundColor = System.Drawing.Color.LightBlue
-        Me.dgvPersona.ColumnHeadersVisible = False
-        Me.dgvPersona.Location = New System.Drawing.Point(387, 469)
-        Me.dgvPersona.MultiSelect = False
-        Me.dgvPersona.Name = "dgvPersona"
-        Me.dgvPersona.ReadOnly = True
-        Me.dgvPersona.RowHeadersVisible = False
-        Me.dgvPersona.Size = New System.Drawing.Size(381, 5)
-        Me.dgvPersona.TabIndex = 208
-        Me.dgvPersona.Visible = False
+        Me.SplitContainer2.Panel1.Controls.Add(Me.SplitContainer3)
         '
-        'Label34
+        'SplitContainer2.Panel2
         '
-        Me.Label34.AutoSize = True
-        Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label34.ForeColor = System.Drawing.Color.Black
-        Me.Label34.Location = New System.Drawing.Point(17, 16)
-        Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(31, 13)
-        Me.Label34.TabIndex = 145
-        Me.Label34.Text = "Tipo:"
+        Me.SplitContainer2.Panel2.BackColor = System.Drawing.SystemColors.ButtonFace
+        Me.SplitContainer2.Panel2.Controls.Add(Me.Label4)
+        Me.SplitContainer2.Panel2.Controls.Add(Me.gbxpredionuev)
+        Me.SplitContainer2.Panel2.Controls.Add(Me.gbxorigendesp)
+        Me.SplitContainer2.Panel2.Controls.Add(Me.gbxindicadelpred)
+        Me.SplitContainer2.Size = New System.Drawing.Size(1028, 738)
+        Me.SplitContainer2.SplitterDistance = 396
+        Me.SplitContainer2.TabIndex = 213
         '
-        'cboTipoDocuser
+        'SplitContainer3
         '
-        Me.cboTipoDocuser.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboTipoDocuser.Enabled = False
-        Me.cboTipoDocuser.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cboTipoDocuser.FormattingEnabled = True
-        Me.cboTipoDocuser.Location = New System.Drawing.Point(14, 33)
-        Me.cboTipoDocuser.Name = "cboTipoDocuser"
-        Me.cboTipoDocuser.Size = New System.Drawing.Size(226, 20)
-        Me.cboTipoDocuser.TabIndex = 135
+        Me.SplitContainer3.BackColor = System.Drawing.Color.Azure
+        Me.SplitContainer3.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.SplitContainer3.FixedPanel = System.Windows.Forms.FixedPanel.Panel1
+        Me.SplitContainer3.Location = New System.Drawing.Point(0, 0)
+        Me.SplitContainer3.Name = "SplitContainer3"
+        Me.SplitContainer3.Orientation = System.Windows.Forms.Orientation.Horizontal
         '
-        'txtDNI
+        'SplitContainer3.Panel1
         '
-        Me.txtDNI.Enabled = False
-        Me.txtDNI.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtDNI.Location = New System.Drawing.Point(256, 32)
-        Me.txtDNI.Name = "txtDNI"
-        Me.txtDNI.ReadOnly = True
-        Me.txtDNI.Size = New System.Drawing.Size(95, 20)
-        Me.txtDNI.TabIndex = 144
+        Me.SplitContainer3.Panel1.Controls.Add(Me.dgvDatosPredio)
         '
-        'Label35
+        'SplitContainer3.Panel2
         '
-        Me.Label35.AutoSize = True
-        Me.Label35.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label35.ForeColor = System.Drawing.Color.Black
-        Me.Label35.Location = New System.Drawing.Point(381, 16)
-        Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(182, 13)
-        Me.Label35.TabIndex = 143
-        Me.Label35.Text = "Apellidos y Nombres / Razon Social: "
+        Me.SplitContainer3.Panel2.BackColor = System.Drawing.Color.AliceBlue
+        Me.SplitContainer3.Panel2.Controls.Add(Me.Label37)
+        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXPREDIOANT)
+        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXDATOSOR)
+        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXUSUARIO)
+        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXINDICA)
+        Me.SplitContainer3.Size = New System.Drawing.Size(1028, 396)
+        Me.SplitContainer3.SplitterDistance = 39
+        Me.SplitContainer3.TabIndex = 209
         '
-        'txtContribuyente
+        'dgvDatosPredio
         '
-        Me.txtContribuyente.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtContribuyente.Location = New System.Drawing.Point(381, 33)
-        Me.txtContribuyente.Name = "txtContribuyente"
-        Me.txtContribuyente.ReadOnly = True
-        Me.txtContribuyente.Size = New System.Drawing.Size(291, 20)
-        Me.txtContribuyente.TabIndex = 142
+        Me.dgvDatosPredio.AllowUserToAddRows = False
+        Me.dgvDatosPredio.AllowUserToDeleteRows = False
+        Me.dgvDatosPredio.AllowUserToResizeRows = False
+        Me.dgvDatosPredio.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
+        Me.dgvDatosPredio.BackgroundColor = System.Drawing.Color.White
+        Me.dgvDatosPredio.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.DarkBlue
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvDatosPredio.DefaultCellStyle = DataGridViewCellStyle1
+        Me.dgvDatosPredio.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.dgvDatosPredio.Location = New System.Drawing.Point(0, 0)
+        Me.dgvDatosPredio.MultiSelect = False
+        Me.dgvDatosPredio.Name = "dgvDatosPredio"
+        Me.dgvDatosPredio.ReadOnly = True
+        Me.dgvDatosPredio.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.dgvDatosPredio.Size = New System.Drawing.Size(1028, 39)
+        Me.dgvDatosPredio.TabIndex = 212
         '
-        'Label36
+        'Label37
         '
-        Me.Label36.AutoSize = True
-        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label36.ForeColor = System.Drawing.Color.Black
-        Me.Label36.Location = New System.Drawing.Point(258, 16)
-        Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(54, 13)
-        Me.Label36.TabIndex = 41
-        Me.Label36.Text = "Identidad:"
-        '
-        'GBXDATOSOR
-        '
-        Me.GBXDATOSOR.BackColor = System.Drawing.Color.AliceBlue
-        Me.GBXDATOSOR.Controls.Add(Me.Label23)
-        Me.GBXDATOSOR.Controls.Add(Me.Label22)
-        Me.GBXDATOSOR.Controls.Add(Me.Label21)
-        Me.GBXDATOSOR.Controls.Add(Me.DateTimePicker2)
-        Me.GBXDATOSOR.Controls.Add(Me.TextBox13)
-        Me.GBXDATOSOR.Controls.Add(Me.cboCampañaActualziar)
-        Me.GBXDATOSOR.Controls.Add(Me.dtpFechaRes)
-        Me.GBXDATOSOR.Controls.Add(Me.Label20)
-        Me.GBXDATOSOR.Controls.Add(Me.txtResolucion)
-        Me.GBXDATOSOR.Controls.Add(Me.Label30)
-        Me.GBXDATOSOR.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GBXDATOSOR.ForeColor = System.Drawing.Color.Black
-        Me.GBXDATOSOR.Location = New System.Drawing.Point(699, 23)
-        Me.GBXDATOSOR.Name = "GBXDATOSOR"
-        Me.GBXDATOSOR.Size = New System.Drawing.Size(316, 132)
-        Me.GBXDATOSOR.TabIndex = 207
-        Me.GBXDATOSOR.TabStop = False
-        Me.GBXDATOSOR.Text = "DATOS DE ORIGEN O DESPLIEGUE:"
-        '
-        'Label23
-        '
-        Me.Label23.AutoSize = True
-        Me.Label23.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label23.ForeColor = System.Drawing.Color.Black
-        Me.Label23.Location = New System.Drawing.Point(219, 76)
-        Me.Label23.Name = "Label23"
-        Me.Label23.Size = New System.Drawing.Size(40, 13)
-        Me.Label23.TabIndex = 54
-        Me.Label23.Text = "Fecha:"
-        '
-        'Label22
-        '
-        Me.Label22.AutoSize = True
-        Me.Label22.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label22.ForeColor = System.Drawing.Color.Black
-        Me.Label22.Location = New System.Drawing.Point(156, 76)
-        Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(40, 13)
-        Me.Label22.TabIndex = 53
-        Me.Label22.Text = "Predio:"
-        Me.Label22.Visible = False
-        '
-        'Label21
-        '
-        Me.Label21.AutoSize = True
-        Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label21.ForeColor = System.Drawing.Color.Black
-        Me.Label21.Location = New System.Drawing.Point(14, 74)
-        Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(55, 13)
-        Me.Label21.TabIndex = 52
-        Me.Label21.Text = "Campaña:"
-        '
-        'GBXINDICA
-        '
-        Me.GBXINDICA.BackColor = System.Drawing.Color.AliceBlue
-        Me.GBXINDICA.Controls.Add(Me.cboEsActivo)
-        Me.GBXINDICA.Controls.Add(Me.cboEsSancionado)
-        Me.GBXINDICA.Controls.Add(Me.Label25)
-        Me.GBXINDICA.Controls.Add(Me.Label24)
-        Me.GBXINDICA.Controls.Add(Me.Label26)
-        Me.GBXINDICA.Controls.Add(Me.cboEsnuevo)
-        Me.GBXINDICA.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GBXINDICA.ForeColor = System.Drawing.Color.Black
-        Me.GBXINDICA.Location = New System.Drawing.Point(704, 157)
-        Me.GBXINDICA.Name = "GBXINDICA"
-        Me.GBXINDICA.Size = New System.Drawing.Size(272, 75)
-        Me.GBXINDICA.TabIndex = 208
-        Me.GBXINDICA.TabStop = False
-        Me.GBXINDICA.Text = "INDICADORES Y SITUACIONES DEL PREDIO:"
-        '
-        'cboEsActivo
-        '
-        Me.cboEsActivo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboEsActivo.FormattingEnabled = True
-        Me.cboEsActivo.Items.AddRange(New Object() {"N", "S"})
-        Me.cboEsActivo.Location = New System.Drawing.Point(174, 43)
-        Me.cboEsActivo.Name = "cboEsActivo"
-        Me.cboEsActivo.Size = New System.Drawing.Size(31, 21)
-        Me.cboEsActivo.TabIndex = 58
-        '
-        'cboEsSancionado
-        '
-        Me.cboEsSancionado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboEsSancionado.FormattingEnabled = True
-        Me.cboEsSancionado.Items.AddRange(New Object() {"N", "S"})
-        Me.cboEsSancionado.Location = New System.Drawing.Point(103, 43)
-        Me.cboEsSancionado.Name = "cboEsSancionado"
-        Me.cboEsSancionado.Size = New System.Drawing.Size(31, 21)
-        Me.cboEsSancionado.TabIndex = 57
-        '
-        'Label25
-        '
-        Me.Label25.AutoSize = True
-        Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label25.ForeColor = System.Drawing.Color.Black
-        Me.Label25.Location = New System.Drawing.Point(171, 23)
-        Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(40, 13)
-        Me.Label25.TabIndex = 56
-        Me.Label25.Text = "Activo:"
-        '
-        'Label24
-        '
-        Me.Label24.AutoSize = True
-        Me.Label24.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label24.ForeColor = System.Drawing.Color.Black
-        Me.Label24.Location = New System.Drawing.Point(79, 23)
-        Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(80, 13)
-        Me.Label24.TabIndex = 54
-        Me.Label24.Text = "Sancion/Multa:"
-        '
-        'Label26
-        '
-        Me.Label26.AutoSize = True
-        Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label26.ForeColor = System.Drawing.Color.Black
-        Me.Label26.Location = New System.Drawing.Point(27, 22)
-        Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(42, 13)
-        Me.Label26.TabIndex = 52
-        Me.Label26.Text = "Nuevo:"
-        '
-        'cboEsnuevo
-        '
-        Me.cboEsnuevo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboEsnuevo.FormattingEnabled = True
-        Me.cboEsnuevo.Items.AddRange(New Object() {"N", "S"})
-        Me.cboEsnuevo.Location = New System.Drawing.Point(34, 43)
-        Me.cboEsnuevo.Name = "cboEsnuevo"
-        Me.cboEsnuevo.Size = New System.Drawing.Size(31, 21)
-        Me.cboEsnuevo.TabIndex = 49
-        '
-        'DateTimePicker2
-        '
-        Me.DateTimePicker2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DateTimePicker2.Location = New System.Drawing.Point(222, 93)
-        Me.DateTimePicker2.Name = "DateTimePicker2"
-        Me.DateTimePicker2.Size = New System.Drawing.Size(81, 21)
-        Me.DateTimePicker2.TabIndex = 51
-        Me.DateTimePicker2.Value = New Date(2018, 3, 15, 0, 0, 0, 0)
-        '
-        'TextBox13
-        '
-        Me.TextBox13.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox13.Location = New System.Drawing.Point(158, 93)
-        Me.TextBox13.Name = "TextBox13"
-        Me.TextBox13.ReadOnly = True
-        Me.TextBox13.Size = New System.Drawing.Size(55, 20)
-        Me.TextBox13.TabIndex = 50
-        Me.TextBox13.Visible = False
-        '
-        'cboCampañaActualziar
-        '
-        Me.cboCampañaActualziar.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboCampañaActualziar.FormattingEnabled = True
-        Me.cboCampañaActualziar.Location = New System.Drawing.Point(17, 90)
-        Me.cboCampañaActualziar.Name = "cboCampañaActualziar"
-        Me.cboCampañaActualziar.Size = New System.Drawing.Size(130, 21)
-        Me.cboCampañaActualziar.TabIndex = 49
-        '
-        'dtpFechaRes
-        '
-        Me.dtpFechaRes.Enabled = False
-        Me.dtpFechaRes.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dtpFechaRes.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.dtpFechaRes.Location = New System.Drawing.Point(222, 38)
-        Me.dtpFechaRes.Name = "dtpFechaRes"
-        Me.dtpFechaRes.Size = New System.Drawing.Size(81, 21)
-        Me.dtpFechaRes.TabIndex = 48
-        Me.dtpFechaRes.Value = New Date(2018, 3, 15, 0, 0, 0, 0)
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label20.ForeColor = System.Drawing.Color.Black
-        Me.Label20.Location = New System.Drawing.Point(212, 22)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(106, 13)
-        Me.Label20.TabIndex = 47
-        Me.Label20.Text = "Fecha de resolucion:"
-        '
-        'txtResolucion
-        '
-        Me.txtResolucion.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtResolucion.Location = New System.Drawing.Point(12, 39)
-        Me.txtResolucion.Name = "txtResolucion"
-        Me.txtResolucion.ReadOnly = True
-        Me.txtResolucion.Size = New System.Drawing.Size(201, 20)
-        Me.txtResolucion.TabIndex = 45
-        '
-        'Label30
-        '
-        Me.Label30.AutoSize = True
-        Me.Label30.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label30.ForeColor = System.Drawing.Color.Black
-        Me.Label30.Location = New System.Drawing.Point(9, 23)
-        Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(63, 13)
-        Me.Label30.TabIndex = 46
-        Me.Label30.Text = "Resolucion:"
+        Me.Label37.BackColor = System.Drawing.Color.FromArgb(CType(CType(26, Byte), Integer), CType(CType(32, Byte), Integer), CType(CType(40, Byte), Integer))
+        Me.Label37.Dock = System.Windows.Forms.DockStyle.Top
+        Me.Label37.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label37.ForeColor = System.Drawing.Color.White
+        Me.Label37.Location = New System.Drawing.Point(0, 0)
+        Me.Label37.Name = "Label37"
+        Me.Label37.Size = New System.Drawing.Size(1028, 20)
+        Me.Label37.TabIndex = 209
+        Me.Label37.Text = "PREDIO ORIGEN"
+        Me.Label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'GBXPREDIOANT
         '
@@ -1074,141 +870,294 @@ Partial Class FrmNuevoPredio
         Me.Label19.TabIndex = 130
         Me.Label19.Text = "CD/Canal/Lateral"
         '
-        'lblTitulo
+        'GBXDATOSOR
         '
-        Me.lblTitulo.BackColor = System.Drawing.Color.AliceBlue
-        Me.lblTitulo.Dock = System.Windows.Forms.DockStyle.Top
-        Me.lblTitulo.Font = New System.Drawing.Font("Tahoma", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblTitulo.ForeColor = System.Drawing.Color.SteelBlue
-        Me.lblTitulo.Location = New System.Drawing.Point(0, 0)
-        Me.lblTitulo.Name = "lblTitulo"
-        Me.lblTitulo.Size = New System.Drawing.Size(1028, 25)
-        Me.lblTitulo.TabIndex = 206
-        Me.lblTitulo.Text = "PARTICION DE PREDIO"
-        Me.lblTitulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.GBXDATOSOR.BackColor = System.Drawing.Color.AliceBlue
+        Me.GBXDATOSOR.Controls.Add(Me.Label23)
+        Me.GBXDATOSOR.Controls.Add(Me.Label22)
+        Me.GBXDATOSOR.Controls.Add(Me.Label21)
+        Me.GBXDATOSOR.Controls.Add(Me.DateTimePicker2)
+        Me.GBXDATOSOR.Controls.Add(Me.TextBox13)
+        Me.GBXDATOSOR.Controls.Add(Me.cboCampañaActualziar)
+        Me.GBXDATOSOR.Controls.Add(Me.dtpFechaRes)
+        Me.GBXDATOSOR.Controls.Add(Me.Label20)
+        Me.GBXDATOSOR.Controls.Add(Me.txtResolucion)
+        Me.GBXDATOSOR.Controls.Add(Me.Label30)
+        Me.GBXDATOSOR.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GBXDATOSOR.ForeColor = System.Drawing.Color.Black
+        Me.GBXDATOSOR.Location = New System.Drawing.Point(699, 23)
+        Me.GBXDATOSOR.Name = "GBXDATOSOR"
+        Me.GBXDATOSOR.Size = New System.Drawing.Size(316, 132)
+        Me.GBXDATOSOR.TabIndex = 207
+        Me.GBXDATOSOR.TabStop = False
+        Me.GBXDATOSOR.Text = "DATOS DE ORIGEN O DESPLIEGUE:"
         '
-        'dgvDatosPredio
+        'Label23
         '
-        Me.dgvDatosPredio.AllowUserToAddRows = False
-        Me.dgvDatosPredio.AllowUserToDeleteRows = False
-        Me.dgvDatosPredio.AllowUserToResizeRows = False
-        Me.dgvDatosPredio.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
-        Me.dgvDatosPredio.BackgroundColor = System.Drawing.Color.White
-        Me.dgvDatosPredio.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.DarkBlue
-        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvDatosPredio.DefaultCellStyle = DataGridViewCellStyle1
-        Me.dgvDatosPredio.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.dgvDatosPredio.Location = New System.Drawing.Point(0, 0)
-        Me.dgvDatosPredio.MultiSelect = False
-        Me.dgvDatosPredio.Name = "dgvDatosPredio"
-        Me.dgvDatosPredio.ReadOnly = True
-        Me.dgvDatosPredio.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvDatosPredio.Size = New System.Drawing.Size(1028, 39)
-        Me.dgvDatosPredio.TabIndex = 212
+        Me.Label23.AutoSize = True
+        Me.Label23.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label23.ForeColor = System.Drawing.Color.Black
+        Me.Label23.Location = New System.Drawing.Point(219, 76)
+        Me.Label23.Name = "Label23"
+        Me.Label23.Size = New System.Drawing.Size(40, 13)
+        Me.Label23.TabIndex = 54
+        Me.Label23.Text = "Fecha:"
         '
-        'btnPrevie
+        'Label22
         '
-        Me.btnPrevie.Anchor = System.Windows.Forms.AnchorStyles.Right
-        Me.btnPrevie.BackColor = System.Drawing.Color.FromArgb(CType(CType(49, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(82, Byte), Integer))
-        Me.btnPrevie.FlatAppearance.BorderSize = 0
-        Me.btnPrevie.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(200, Byte), Integer))
-        Me.btnPrevie.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnPrevie.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnPrevie.ForeColor = System.Drawing.Color.White
-        Me.btnPrevie.Image = CType(resources.GetObject("btnPrevie.Image"), System.Drawing.Image)
-        Me.btnPrevie.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnPrevie.Location = New System.Drawing.Point(694, 33)
-        Me.btnPrevie.Name = "btnPrevie"
-        Me.btnPrevie.Size = New System.Drawing.Size(104, 38)
-        Me.btnPrevie.TabIndex = 206
-        Me.btnPrevie.Text = "BUSCAR"
-        Me.btnPrevie.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btnPrevie.UseVisualStyleBackColor = False
+        Me.Label22.AutoSize = True
+        Me.Label22.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label22.ForeColor = System.Drawing.Color.Black
+        Me.Label22.Location = New System.Drawing.Point(156, 76)
+        Me.Label22.Name = "Label22"
+        Me.Label22.Size = New System.Drawing.Size(40, 13)
+        Me.Label22.TabIndex = 53
+        Me.Label22.Text = "Predio:"
+        Me.Label22.Visible = False
         '
-        'bgtnGuardar
+        'Label21
         '
-        Me.bgtnGuardar.Anchor = System.Windows.Forms.AnchorStyles.Right
-        Me.bgtnGuardar.BackColor = System.Drawing.Color.FromArgb(CType(CType(49, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(82, Byte), Integer))
-        Me.bgtnGuardar.FlatAppearance.BorderSize = 0
-        Me.bgtnGuardar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(200, Byte), Integer))
-        Me.bgtnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.bgtnGuardar.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.bgtnGuardar.ForeColor = System.Drawing.Color.White
-        Me.bgtnGuardar.Image = CType(resources.GetObject("bgtnGuardar.Image"), System.Drawing.Image)
-        Me.bgtnGuardar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.bgtnGuardar.Location = New System.Drawing.Point(807, 34)
-        Me.bgtnGuardar.Name = "bgtnGuardar"
-        Me.bgtnGuardar.Size = New System.Drawing.Size(210, 38)
-        Me.bgtnGuardar.TabIndex = 207
-        Me.bgtnGuardar.Text = "GENERAR NUEVO PREDIO"
-        Me.bgtnGuardar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.bgtnGuardar.UseVisualStyleBackColor = False
+        Me.Label21.AutoSize = True
+        Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label21.ForeColor = System.Drawing.Color.Black
+        Me.Label21.Location = New System.Drawing.Point(14, 74)
+        Me.Label21.Name = "Label21"
+        Me.Label21.Size = New System.Drawing.Size(55, 13)
+        Me.Label21.TabIndex = 52
+        Me.Label21.Text = "Campaña:"
         '
-        'SplitContainer2
+        'DateTimePicker2
         '
-        Me.SplitContainer2.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.SplitContainer2.Location = New System.Drawing.Point(0, 0)
-        Me.SplitContainer2.Name = "SplitContainer2"
-        Me.SplitContainer2.Orientation = System.Windows.Forms.Orientation.Horizontal
+        Me.DateTimePicker2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.DateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DateTimePicker2.Location = New System.Drawing.Point(222, 93)
+        Me.DateTimePicker2.Name = "DateTimePicker2"
+        Me.DateTimePicker2.Size = New System.Drawing.Size(81, 21)
+        Me.DateTimePicker2.TabIndex = 51
+        Me.DateTimePicker2.Value = New Date(2018, 3, 15, 0, 0, 0, 0)
         '
-        'SplitContainer2.Panel1
+        'TextBox13
         '
-        Me.SplitContainer2.Panel1.Controls.Add(Me.SplitContainer3)
+        Me.TextBox13.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox13.Location = New System.Drawing.Point(158, 93)
+        Me.TextBox13.Name = "TextBox13"
+        Me.TextBox13.ReadOnly = True
+        Me.TextBox13.Size = New System.Drawing.Size(55, 20)
+        Me.TextBox13.TabIndex = 50
+        Me.TextBox13.Visible = False
         '
-        'SplitContainer2.Panel2
+        'cboCampañaActualziar
         '
-        Me.SplitContainer2.Panel2.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.SplitContainer2.Panel2.Controls.Add(Me.Label4)
-        Me.SplitContainer2.Panel2.Controls.Add(Me.gbxpredionuev)
-        Me.SplitContainer2.Panel2.Controls.Add(Me.gbxorigendesp)
-        Me.SplitContainer2.Panel2.Controls.Add(Me.gbxindicadelpred)
-        Me.SplitContainer2.Size = New System.Drawing.Size(1028, 738)
-        Me.SplitContainer2.SplitterDistance = 396
-        Me.SplitContainer2.TabIndex = 213
+        Me.cboCampañaActualziar.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboCampañaActualziar.FormattingEnabled = True
+        Me.cboCampañaActualziar.Location = New System.Drawing.Point(17, 90)
+        Me.cboCampañaActualziar.Name = "cboCampañaActualziar"
+        Me.cboCampañaActualziar.Size = New System.Drawing.Size(130, 21)
+        Me.cboCampañaActualziar.TabIndex = 49
         '
-        'SplitContainer3
+        'dtpFechaRes
         '
-        Me.SplitContainer3.BackColor = System.Drawing.Color.Azure
-        Me.SplitContainer3.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.SplitContainer3.FixedPanel = System.Windows.Forms.FixedPanel.Panel1
-        Me.SplitContainer3.Location = New System.Drawing.Point(0, 0)
-        Me.SplitContainer3.Name = "SplitContainer3"
-        Me.SplitContainer3.Orientation = System.Windows.Forms.Orientation.Horizontal
+        Me.dtpFechaRes.Enabled = False
+        Me.dtpFechaRes.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dtpFechaRes.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtpFechaRes.Location = New System.Drawing.Point(222, 38)
+        Me.dtpFechaRes.Name = "dtpFechaRes"
+        Me.dtpFechaRes.Size = New System.Drawing.Size(81, 21)
+        Me.dtpFechaRes.TabIndex = 48
+        Me.dtpFechaRes.Value = New Date(2018, 3, 15, 0, 0, 0, 0)
         '
-        'SplitContainer3.Panel1
+        'Label20
         '
-        Me.SplitContainer3.Panel1.Controls.Add(Me.dgvDatosPredio)
+        Me.Label20.AutoSize = True
+        Me.Label20.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label20.ForeColor = System.Drawing.Color.Black
+        Me.Label20.Location = New System.Drawing.Point(212, 22)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(106, 13)
+        Me.Label20.TabIndex = 47
+        Me.Label20.Text = "Fecha de resolucion:"
         '
-        'SplitContainer3.Panel2
+        'txtResolucion
         '
-        Me.SplitContainer3.Panel2.BackColor = System.Drawing.Color.AliceBlue
-        Me.SplitContainer3.Panel2.Controls.Add(Me.Label37)
-        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXPREDIOANT)
-        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXDATOSOR)
-        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXUSUARIO)
-        Me.SplitContainer3.Panel2.Controls.Add(Me.GBXINDICA)
-        Me.SplitContainer3.Size = New System.Drawing.Size(1028, 396)
-        Me.SplitContainer3.SplitterDistance = 39
-        Me.SplitContainer3.TabIndex = 209
+        Me.txtResolucion.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtResolucion.Location = New System.Drawing.Point(12, 39)
+        Me.txtResolucion.Name = "txtResolucion"
+        Me.txtResolucion.ReadOnly = True
+        Me.txtResolucion.Size = New System.Drawing.Size(201, 20)
+        Me.txtResolucion.TabIndex = 45
         '
-        'Label37
+        'Label30
         '
-        Me.Label37.BackColor = System.Drawing.Color.FromArgb(CType(CType(26, Byte), Integer), CType(CType(32, Byte), Integer), CType(CType(40, Byte), Integer))
-        Me.Label37.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Label37.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label37.ForeColor = System.Drawing.Color.White
-        Me.Label37.Location = New System.Drawing.Point(0, 0)
-        Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(1028, 20)
-        Me.Label37.TabIndex = 209
-        Me.Label37.Text = "PREDIO ORIGEN"
-        Me.Label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.Label30.AutoSize = True
+        Me.Label30.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label30.ForeColor = System.Drawing.Color.Black
+        Me.Label30.Location = New System.Drawing.Point(9, 23)
+        Me.Label30.Name = "Label30"
+        Me.Label30.Size = New System.Drawing.Size(63, 13)
+        Me.Label30.TabIndex = 46
+        Me.Label30.Text = "Resolucion:"
+        '
+        'GBXUSUARIO
+        '
+        Me.GBXUSUARIO.BackColor = System.Drawing.Color.AliceBlue
+        Me.GBXUSUARIO.Controls.Add(Me.Label34)
+        Me.GBXUSUARIO.Controls.Add(Me.cboTipoDocuser)
+        Me.GBXUSUARIO.Controls.Add(Me.txtDNI)
+        Me.GBXUSUARIO.Controls.Add(Me.Label35)
+        Me.GBXUSUARIO.Controls.Add(Me.txtContribuyente)
+        Me.GBXUSUARIO.Controls.Add(Me.Label36)
+        Me.GBXUSUARIO.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GBXUSUARIO.ForeColor = System.Drawing.Color.Black
+        Me.GBXUSUARIO.Location = New System.Drawing.Point(5, 282)
+        Me.GBXUSUARIO.Name = "GBXUSUARIO"
+        Me.GBXUSUARIO.Size = New System.Drawing.Size(699, 67)
+        Me.GBXUSUARIO.TabIndex = 209
+        Me.GBXUSUARIO.TabStop = False
+        Me.GBXUSUARIO.Text = "INFORMACION DE USUARIO"
+        '
+        'Label34
+        '
+        Me.Label34.AutoSize = True
+        Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label34.ForeColor = System.Drawing.Color.Black
+        Me.Label34.Location = New System.Drawing.Point(17, 16)
+        Me.Label34.Name = "Label34"
+        Me.Label34.Size = New System.Drawing.Size(31, 13)
+        Me.Label34.TabIndex = 145
+        Me.Label34.Text = "Tipo:"
+        '
+        'cboTipoDocuser
+        '
+        Me.cboTipoDocuser.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboTipoDocuser.Enabled = False
+        Me.cboTipoDocuser.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cboTipoDocuser.FormattingEnabled = True
+        Me.cboTipoDocuser.Location = New System.Drawing.Point(14, 33)
+        Me.cboTipoDocuser.Name = "cboTipoDocuser"
+        Me.cboTipoDocuser.Size = New System.Drawing.Size(226, 20)
+        Me.cboTipoDocuser.TabIndex = 135
+        '
+        'txtDNI
+        '
+        Me.txtDNI.Enabled = False
+        Me.txtDNI.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtDNI.Location = New System.Drawing.Point(256, 32)
+        Me.txtDNI.Name = "txtDNI"
+        Me.txtDNI.ReadOnly = True
+        Me.txtDNI.Size = New System.Drawing.Size(95, 20)
+        Me.txtDNI.TabIndex = 144
+        '
+        'Label35
+        '
+        Me.Label35.AutoSize = True
+        Me.Label35.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label35.ForeColor = System.Drawing.Color.Black
+        Me.Label35.Location = New System.Drawing.Point(381, 16)
+        Me.Label35.Name = "Label35"
+        Me.Label35.Size = New System.Drawing.Size(182, 13)
+        Me.Label35.TabIndex = 143
+        Me.Label35.Text = "Apellidos y Nombres / Razon Social: "
+        '
+        'txtContribuyente
+        '
+        Me.txtContribuyente.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtContribuyente.Location = New System.Drawing.Point(381, 33)
+        Me.txtContribuyente.Name = "txtContribuyente"
+        Me.txtContribuyente.ReadOnly = True
+        Me.txtContribuyente.Size = New System.Drawing.Size(291, 20)
+        Me.txtContribuyente.TabIndex = 142
+        '
+        'Label36
+        '
+        Me.Label36.AutoSize = True
+        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label36.ForeColor = System.Drawing.Color.Black
+        Me.Label36.Location = New System.Drawing.Point(258, 16)
+        Me.Label36.Name = "Label36"
+        Me.Label36.Size = New System.Drawing.Size(54, 13)
+        Me.Label36.TabIndex = 41
+        Me.Label36.Text = "Identidad:"
+        '
+        'GBXINDICA
+        '
+        Me.GBXINDICA.BackColor = System.Drawing.Color.AliceBlue
+        Me.GBXINDICA.Controls.Add(Me.cboEsActivo)
+        Me.GBXINDICA.Controls.Add(Me.cboEsSancionado)
+        Me.GBXINDICA.Controls.Add(Me.Label25)
+        Me.GBXINDICA.Controls.Add(Me.Label24)
+        Me.GBXINDICA.Controls.Add(Me.Label26)
+        Me.GBXINDICA.Controls.Add(Me.cboEsnuevo)
+        Me.GBXINDICA.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GBXINDICA.ForeColor = System.Drawing.Color.Black
+        Me.GBXINDICA.Location = New System.Drawing.Point(704, 157)
+        Me.GBXINDICA.Name = "GBXINDICA"
+        Me.GBXINDICA.Size = New System.Drawing.Size(272, 75)
+        Me.GBXINDICA.TabIndex = 208
+        Me.GBXINDICA.TabStop = False
+        Me.GBXINDICA.Text = "INDICADORES Y SITUACIONES DEL PREDIO:"
+        '
+        'cboEsActivo
+        '
+        Me.cboEsActivo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboEsActivo.FormattingEnabled = True
+        Me.cboEsActivo.Items.AddRange(New Object() {"N", "S"})
+        Me.cboEsActivo.Location = New System.Drawing.Point(174, 43)
+        Me.cboEsActivo.Name = "cboEsActivo"
+        Me.cboEsActivo.Size = New System.Drawing.Size(31, 21)
+        Me.cboEsActivo.TabIndex = 58
+        '
+        'cboEsSancionado
+        '
+        Me.cboEsSancionado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboEsSancionado.FormattingEnabled = True
+        Me.cboEsSancionado.Items.AddRange(New Object() {"N", "S"})
+        Me.cboEsSancionado.Location = New System.Drawing.Point(103, 43)
+        Me.cboEsSancionado.Name = "cboEsSancionado"
+        Me.cboEsSancionado.Size = New System.Drawing.Size(31, 21)
+        Me.cboEsSancionado.TabIndex = 57
+        '
+        'Label25
+        '
+        Me.Label25.AutoSize = True
+        Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label25.ForeColor = System.Drawing.Color.Black
+        Me.Label25.Location = New System.Drawing.Point(171, 23)
+        Me.Label25.Name = "Label25"
+        Me.Label25.Size = New System.Drawing.Size(40, 13)
+        Me.Label25.TabIndex = 56
+        Me.Label25.Text = "Activo:"
+        '
+        'Label24
+        '
+        Me.Label24.AutoSize = True
+        Me.Label24.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label24.ForeColor = System.Drawing.Color.Black
+        Me.Label24.Location = New System.Drawing.Point(79, 23)
+        Me.Label24.Name = "Label24"
+        Me.Label24.Size = New System.Drawing.Size(80, 13)
+        Me.Label24.TabIndex = 54
+        Me.Label24.Text = "Sancion/Multa:"
+        '
+        'Label26
+        '
+        Me.Label26.AutoSize = True
+        Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label26.ForeColor = System.Drawing.Color.Black
+        Me.Label26.Location = New System.Drawing.Point(27, 22)
+        Me.Label26.Name = "Label26"
+        Me.Label26.Size = New System.Drawing.Size(42, 13)
+        Me.Label26.TabIndex = 52
+        Me.Label26.Text = "Nuevo:"
+        '
+        'cboEsnuevo
+        '
+        Me.cboEsnuevo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboEsnuevo.FormattingEnabled = True
+        Me.cboEsnuevo.Items.AddRange(New Object() {"N", "S"})
+        Me.cboEsnuevo.Location = New System.Drawing.Point(34, 43)
+        Me.cboEsnuevo.Name = "cboEsnuevo"
+        Me.cboEsnuevo.Size = New System.Drawing.Size(31, 21)
+        Me.cboEsnuevo.TabIndex = 49
         '
         'Label4
         '
@@ -1893,6 +1842,57 @@ Partial Class FrmNuevoPredio
         Me.ComboBox12.Size = New System.Drawing.Size(31, 21)
         Me.ComboBox12.TabIndex = 49
         '
+        'txtObservaciones
+        '
+        Me.txtObservaciones.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtObservaciones.Location = New System.Drawing.Point(14, 617)
+        Me.txtObservaciones.Multiline = True
+        Me.txtObservaciones.Name = "txtObservaciones"
+        Me.txtObservaciones.ReadOnly = True
+        Me.txtObservaciones.Size = New System.Drawing.Size(784, 35)
+        Me.txtObservaciones.TabIndex = 211
+        '
+        'Label33
+        '
+        Me.Label33.AutoSize = True
+        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label33.ForeColor = System.Drawing.Color.Black
+        Me.Label33.Location = New System.Drawing.Point(13, 601)
+        Me.Label33.Name = "Label33"
+        Me.Label33.Size = New System.Drawing.Size(81, 13)
+        Me.Label33.TabIndex = 210
+        Me.Label33.Text = "Observaciones:"
+        '
+        'dgvPersona
+        '
+        Me.dgvPersona.AllowUserToAddRows = False
+        Me.dgvPersona.AllowUserToDeleteRows = False
+        Me.dgvPersona.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
+        Me.dgvPersona.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells
+        Me.dgvPersona.BackgroundColor = System.Drawing.Color.LightBlue
+        Me.dgvPersona.ColumnHeadersVisible = False
+        Me.dgvPersona.Location = New System.Drawing.Point(387, 469)
+        Me.dgvPersona.MultiSelect = False
+        Me.dgvPersona.Name = "dgvPersona"
+        Me.dgvPersona.ReadOnly = True
+        Me.dgvPersona.RowHeadersVisible = False
+        Me.dgvPersona.Size = New System.Drawing.Size(381, 5)
+        Me.dgvPersona.TabIndex = 208
+        Me.dgvPersona.Visible = False
+        '
+        'lblTitulo
+        '
+        Me.lblTitulo.BackColor = System.Drawing.Color.AliceBlue
+        Me.lblTitulo.Dock = System.Windows.Forms.DockStyle.Top
+        Me.lblTitulo.Font = New System.Drawing.Font("Tahoma", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTitulo.ForeColor = System.Drawing.Color.SteelBlue
+        Me.lblTitulo.Location = New System.Drawing.Point(0, 0)
+        Me.lblTitulo.Name = "lblTitulo"
+        Me.lblTitulo.Size = New System.Drawing.Size(1028, 25)
+        Me.lblTitulo.TabIndex = 206
+        Me.lblTitulo.Text = "PARTICION DE PREDIO"
+        Me.lblTitulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'FrmNuevoPredio
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1913,21 +1913,6 @@ Partial Class FrmNuevoPredio
         Me.SplitContainer1.Panel2.PerformLayout()
         CType(Me.SplitContainer1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.SplitContainer1.ResumeLayout(False)
-        Me.GBXUSUARIO.ResumeLayout(False)
-        Me.GBXUSUARIO.PerformLayout()
-        CType(Me.dgvPersona, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GBXDATOSOR.ResumeLayout(False)
-        Me.GBXDATOSOR.PerformLayout()
-        Me.GBXINDICA.ResumeLayout(False)
-        Me.GBXINDICA.PerformLayout()
-        Me.GBXPREDIOANT.ResumeLayout(False)
-        Me.GBXIDPREDIO.ResumeLayout(False)
-        Me.GBXIDPREDIO.PerformLayout()
-        Me.GBXAREA.ResumeLayout(False)
-        Me.GBXAREA.PerformLayout()
-        Me.GBXUBICGEO.ResumeLayout(False)
-        Me.GBXUBICGEO.PerformLayout()
-        CType(Me.dgvDatosPredio, System.ComponentModel.ISupportInitialize).EndInit()
         Me.SplitContainer2.Panel1.ResumeLayout(False)
         Me.SplitContainer2.Panel2.ResumeLayout(False)
         CType(Me.SplitContainer2, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1936,6 +1921,20 @@ Partial Class FrmNuevoPredio
         Me.SplitContainer3.Panel2.ResumeLayout(False)
         CType(Me.SplitContainer3, System.ComponentModel.ISupportInitialize).EndInit()
         Me.SplitContainer3.ResumeLayout(False)
+        CType(Me.dgvDatosPredio, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GBXPREDIOANT.ResumeLayout(False)
+        Me.GBXIDPREDIO.ResumeLayout(False)
+        Me.GBXIDPREDIO.PerformLayout()
+        Me.GBXAREA.ResumeLayout(False)
+        Me.GBXAREA.PerformLayout()
+        Me.GBXUBICGEO.ResumeLayout(False)
+        Me.GBXUBICGEO.PerformLayout()
+        Me.GBXDATOSOR.ResumeLayout(False)
+        Me.GBXDATOSOR.PerformLayout()
+        Me.GBXUSUARIO.ResumeLayout(False)
+        Me.GBXUSUARIO.PerformLayout()
+        Me.GBXINDICA.ResumeLayout(False)
+        Me.GBXINDICA.PerformLayout()
         Me.gbxpredionuev.ResumeLayout(False)
         Me.gbxpred.ResumeLayout(False)
         Me.gbxpred.PerformLayout()
@@ -1947,6 +1946,7 @@ Partial Class FrmNuevoPredio
         Me.gbxorigendesp.PerformLayout()
         Me.gbxindicadelpred.ResumeLayout(False)
         Me.gbxindicadelpred.PerformLayout()
+        CType(Me.dgvPersona, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
